@@ -42,5 +42,7 @@ README.md
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gmail:giorgivaradashvili186@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/varadashvili_giorgi_/)  
 [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/GioVaradashvili)  
+[![Facebook](https://img.shields.io/badge/-Facebook-B1361E?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/varadashvili.giorgi)  
+
 
 ---
