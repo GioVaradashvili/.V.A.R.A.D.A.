@@ -12,7 +12,8 @@ README.md
 📍 Kvareli, Georgia  
 
 ---
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="">
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="250">
+
 ---
 
 ### 🚀 Tech Stack!
