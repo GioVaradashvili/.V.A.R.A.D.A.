@@ -11,10 +11,6 @@
 📍 Kvareli, Georgia  
 
 ---
-
-![Banner](https://www.canva.com/design/DAGy-NpxWbk/gfJoMrmN1G5W_Ibc8HVk2Q/watch)  
-<!-- შეგიძლია საკუთარი ბანერი ატვირთო და ჩასვა ლინკი -->
-
 ---
 
 ### 🚀 Tech Stack
