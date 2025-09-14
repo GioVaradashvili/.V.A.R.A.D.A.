@@ -12,6 +12,7 @@ README.md
 📍 Kvareli, Georgia  
 
 ---
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="">
 ---
 
 ### 🚀 Tech Stack!
