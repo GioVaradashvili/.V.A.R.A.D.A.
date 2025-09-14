@@ -12,7 +12,7 @@
 
 ---
 
-![Banner](https://www.canva.com/design/DAGy-NpxWbk/8eO72DJwC0CFoVBxCQWOmQ/edit?utm_content=DAGy-NpxWbk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+![Banner](https://www.canva.com/design/DAGy-NpxWbk/gfJoMrmN1G5W_Ibc8HVk2Q/watch)  
 <!-- შეგიძლია საკუთარი ბანერი ატვირთო და ჩასვა ლინკი -->
 
 ---
@@ -37,8 +37,6 @@
 - **[my-projects](https://github.com/GioVaradashvili/my-projects)** → Projects  
 - **[mentor-s-exam](https://github.com/GioVaradashvili/mentor-s-exam)** → Mentor's exam  
 - **[Mini-mentor-exam](https://github.com/GioVaradashvili/Mini-mentor-exam)** → Mini-Mentor exam
-
-*(ყოველ რეპოში ჩაწერე პატარა README ინსტალაციის ან სქრინებით, რომ სხვამ მარტივად დაინახოს)*  
 
 ---
 
