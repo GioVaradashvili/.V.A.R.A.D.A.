@@ -6,6 +6,7 @@
 🎮 Game Developer (Lua + Unity)
 <br>
 🎯 Goal-Oriented Academy: Mentor's Assistant, Crew Leader, Mini-Mentor, Mini-Leader Controller
+<br>
 📍 Kvareli, Georgia  
 
 ---
