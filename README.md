@@ -1,5 +1,3 @@
-# .V.A.R.A.D.A.
-
 # 👋 Hello, I am Giorgi Varadashvili
 
 💻 Full-Stack Developer (Frontend + Backend) 
