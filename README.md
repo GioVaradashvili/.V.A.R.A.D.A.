@@ -4,7 +4,7 @@ README.md
 
 💻 Full-Stack Developer (Frontend + Backend) 
 🎨 Graphic Desginer (Canva + Figma)
-🤖 AI 
+🤖 AI (C + C# + C++)
 🎮 Game Developer (Lua + Unity)
 <br>
 🎯 Goal-Oriented Academy: Mentor's Assistant, Crew Leader, Mini-Mentor, Mini-Leader Controller
